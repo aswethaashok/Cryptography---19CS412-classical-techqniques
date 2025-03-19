@@ -84,8 +84,8 @@ Simulating Caesar Cipher
 
 
 
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+Input : swetha
+Encrypted Message : uygvjc Decrypted Message : swetha
 
 ## RESULT:
 The program is executed successfully
